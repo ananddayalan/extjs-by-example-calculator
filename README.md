@@ -5,4 +5,4 @@ To run this sample application, simply clone or download, and open index.html in
 
 Note, this example uses cloudflare CDN for ExtJS 6. If the CDN doesn't work, you may need to update ExtJS lib urls in index.html and point to the local ExtJS library path.
 
-The installation guide for ExtJS 6, Sencha Cmd, and GoLang are explained in the book ExtJS by Example.
+The installation guide for ExtJS 6 and Sencha Cmd are explained in the book ExtJS by Example.
