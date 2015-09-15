@@ -1,4 +1,4 @@
-# extjs-by-example-calculator
+# Extjs by example : calculator
 
 This "Calculator" is one of the sample projects detailed in the book "[ExtJS by Example](https://www.packtpub.com/web-development/ext-js-example)". This sample application uses ExtJS 6. 
 To run this sample application, simply clone or download, and open index.html in the browser.
